@@ -38,7 +38,7 @@ numpy >= 1.21.0
 **🚀 Installation**
 
 Clone the repository
-bashCopygit clone https://github.com/yourusername/fault-detection-system.git
+bashCopygit clone https://github.com/AbhinavDubey30/InverterFaultDiagnosisML.git
 cd fault-detection-system
 
 **Install dependencies**
